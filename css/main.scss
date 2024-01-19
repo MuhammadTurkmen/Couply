@@ -306,6 +306,12 @@ footer {
 
         .right-footer {
             text-align: center;
+
+            .footer-nav{
+                display: flex;
+                gap: 3rem;
+                justify-content: center;
+            }
         }
     }
 }

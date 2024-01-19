@@ -281,4 +281,9 @@ footer .footer-wrapper .left-footer .footer-media .footer-media-svg .last {
 }
 footer .footer-wrapper .right-footer {
   text-align: center;
+}
+footer .footer-wrapper .right-footer .footer-nav {
+  display: flex;
+  gap: 3rem;
+  justify-content: center;
 }/*# sourceMappingURL=main.css.map */
