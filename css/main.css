@@ -46,6 +46,8 @@ section .left-col {
 section .left-col h1 {
   font-size: 3.2rem;
   line-height: 125.4%; /* 40.128px */
+  padding-left: 5rem;
+  padding-right: 5rem;
 }
 section .left-col .other-users-div {
   flex-direction: column;
@@ -68,6 +70,7 @@ section .left-col .other-users-div .users-img-div img {
 }
 section .right-col {
   padding: 5.2rem 2rem;
+  padding-right: 10rem;
 }
 section .right-col .extention-part-div {
   display: flex;

@@ -23,6 +23,8 @@ section {
         h1 {
             font-size: 3.2rem;
             line-height: 125.4%; /* 40.128px */
+            padding-left: 5rem;
+            padding-right: 5rem;
         }
 
         .other-users-div {
@@ -52,6 +54,7 @@ section {
 
     .right-col {
         padding: 5.2rem 2rem;
+        padding-right: 10rem;
 
         .extention-part-div {
             display: flex;
