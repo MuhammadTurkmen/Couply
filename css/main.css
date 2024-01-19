@@ -138,4 +138,9 @@ main .shops-item-div {
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 2rem;
+}
+main .shops-item-div .first .second .third {
+  width: 349px;
+  height: 204px;
 }/*# sourceMappingURL=main.css.map */

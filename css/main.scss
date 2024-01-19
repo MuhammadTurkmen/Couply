@@ -143,7 +143,12 @@ main {
         display: flex;
         flex-direction: column;
         align-items: center;
-        
+        gap: 2rem;
+
+        .first .second .third {
+            width: 349px;
+            height: 204px;
+        }
     }
 
 
