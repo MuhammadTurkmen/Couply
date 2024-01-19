@@ -136,4 +136,6 @@ main .shops-div .shops-names .four {
 }
 main .shops-item-div {
   display: flex;
+  flex-direction: column;
+  align-items: center;
 }/*# sourceMappingURL=main.css.map */
