@@ -140,7 +140,12 @@ main .shops-item-div {
   align-items: center;
   gap: 2rem;
 }
-main .shops-item-div .first .second .third {
+main .shops-item-div .first-item-div {
+  background-image: url(../assets/shoes.jpeg);
+  background-size: cover;
+  background-position: 0;
   width: 349px;
-  height: 204px;
+  height: 205px;
+  display: flex;
+  flex-direction: column;
 }/*# sourceMappingURL=main.css.map */

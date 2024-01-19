@@ -145,10 +145,17 @@ main {
         align-items: center;
         gap: 2rem;
 
-        .first .second .third {
+        .first-item-div {
+            background-image: url(../assets/shoes.jpeg);
+            background-size: cover;
+            background-position: 0;
             width: 349px;
-            height: 204px;
+            height: 205px;
+            display: flex;
+            flex-direction: column;
         }
+
+
     }
 
 
