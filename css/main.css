@@ -140,6 +140,7 @@ main .shops-item-div {
   align-items: center;
   gap: 2rem;
   margin-top: -10rem;
+  margin-bottom: 7.3rem;
 }
 main .shops-item-div .first-item-div {
   background-image: url(../assets/shoes.jpeg);
