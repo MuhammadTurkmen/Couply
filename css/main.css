@@ -117,16 +117,20 @@ main .shops-div .shops-names {
 }
 main .shops-div .shops-names .one {
   width: 88px;
+  justify-self: center;
 }
 main .shops-div .shops-names .two {
   width: 63px;
   height: 36px;
+  justify-self: center;
 }
 main .shops-div .shops-names .three {
   width: 106px;
   height: 30px;
+  justify-self: center;
 }
 main .shops-div .shops-names .four {
   width: 107px;
   height: 26px;
+  justify-self: center;
 }/*# sourceMappingURL=main.css.map */
