@@ -307,15 +307,22 @@ footer {
         .right-footer {
             text-align: center;
             margin-bottom: 6.9rem;
+
+
             .footer-nav{
                 display: flex;
                 gap: 3rem;
                 justify-content: center;
-
+                margin-bottom: 3rem;
                 a {
                     font-size: 1.8rem;
                 }
 
+            }
+
+            p {
+                font-size: 1.4rem;
+                color: #6C7667;
             }
         }
     }

@@ -287,7 +287,12 @@ footer .footer-wrapper .right-footer .footer-nav {
   display: flex;
   gap: 3rem;
   justify-content: center;
+  margin-bottom: 3rem;
 }
 footer .footer-wrapper .right-footer .footer-nav a {
   font-size: 1.8rem;
+}
+footer .footer-wrapper .right-footer p {
+  font-size: 1.4rem;
+  color: #6C7667;
 }/*# sourceMappingURL=main.css.map */
