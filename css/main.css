@@ -69,4 +69,23 @@ section .right-col .extention-part-div {
   display: flex;
   flex-direction: column;
   gap: 3rem;
+}
+section .right-col .extention-part-div .step {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+section .right-col .extention-part-div .step p {
+  font-size: 2rem;
+}
+section .right-col .extention-part-div .step strong {
+  font-size: 1.6rem;
+  background-color: #000;
+  border-radius: 50%;
+  color: white;
+  padding: 0.5rem 1rem;
+}
+section .right-col .extention-part-div .step span {
+  color: #608A4D;
+  font-weight: bold;
 }/*# sourceMappingURL=main.css.map */

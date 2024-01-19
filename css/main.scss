@@ -55,6 +55,30 @@ section {
             display: flex;
             flex-direction: column;
             gap: 3rem;
+
+            .step {
+                display: flex;
+                align-items: center;
+                gap: 2rem;
+
+                p {
+                    font-size: 2rem;
+                }
+
+                strong {
+                    font-size: 1.6rem;
+                    background-color: #000;
+                    border-radius: 50%;
+                    color: white;
+                    padding: .5rem 1rem;
+                }
+
+
+                span {
+                    color: #608A4D;
+                    font-weight: bold;
+                }
+            }
         }
 
     }
