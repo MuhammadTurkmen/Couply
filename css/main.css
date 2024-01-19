@@ -36,12 +36,29 @@ header {
 
 section .left-col {
   text-align: center;
-  margin: 3rem 5rem;
+  padding: 3rem 5rem;
+  border-bottom: var(--second-border);
 }
-section .left-col p {
-  font-size: 16px;
-}
-section h1 {
+section .left-col h1 {
   font-size: 3.2rem;
   line-height: 125.4%; /* 40.128px */
+}
+section .left-col .other-users-div {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+section .left-col .other-users-div p {
+  font-size: 16px;
+  margin-left: -2rem;
+}
+section .left-col .other-users-div .users-img-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+section .left-col .other-users-div .users-img-div img {
+  margin-left: -2rem;
 }/*# sourceMappingURL=main.css.map */

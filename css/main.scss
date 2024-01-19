@@ -15,17 +15,44 @@ section {
     
     .left-col {
         text-align: center;
-        margin: 3rem 5rem;
-
-        p {
-            font-size: 16px;
+        padding: 3rem 5rem;
+        border-bottom: var(--second-border);
+        
+        h1 {
+            font-size: 3.2rem;
+            line-height: 125.4%; /* 40.128px */
         }
+
+        .other-users-div {
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            display: flex;
+
+            
+            p {
+                font-size: 16px;
+                margin-left: -2rem;
+            }
+
+            .users-img-div {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin: 0 auto;
+    
+                img {
+                    margin-left: -2rem;
+                }
+            }
+        }
+
+
+
+        
+
     }
 
 
-    h1 {
-        font-size: 3.2rem;
-        line-height: 125.4%; /* 40.128px */
-    }
 }
 
