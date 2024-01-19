@@ -159,6 +159,7 @@ main .shops-item-div .first-item-div .name {
   padding-top: 1.8rem;
   padding-bottom: 1.8rem;
   padding-left: 1.8rem;
+  font-weight: bold;
 }
 main .shops-item-div .first-item-div .price {
   background-color: #000;
@@ -167,6 +168,7 @@ main .shops-item-div .first-item-div .price {
   margin: 0;
   font-size: 2.2rem;
   padding: 1.7rem 3.3rem 1.7rem 2rem;
+  font-weight: bold;
 }
 main .shops-item-div .second-item-div {
   background-image: url(../assets/Arow.jpeg);
@@ -187,6 +189,7 @@ main .shops-item-div .second-item-div .name {
   padding-top: 1.8rem;
   padding-bottom: 1.8rem;
   padding-left: 1.8rem;
+  font-weight: bold;
 }
 main .shops-item-div .second-item-div .price {
   background-color: #000;
@@ -195,6 +198,7 @@ main .shops-item-div .second-item-div .price {
   margin: 0;
   font-size: 2.2rem;
   padding: 1.7rem 3.3rem 1.7rem 2rem;
+  font-weight: bold;
 }
 main .shops-item-div .third-item-div {
   background-image: url(../assets/headphone.jpeg);
@@ -215,6 +219,7 @@ main .shops-item-div .third-item-div .name {
   padding-top: 1.8rem;
   padding-bottom: 1.8rem;
   padding-left: 1.8rem;
+  font-weight: bold;
 }
 main .shops-item-div .third-item-div .price {
   background-color: #000;
@@ -223,4 +228,5 @@ main .shops-item-div .third-item-div .price {
   margin: 0;
   font-size: 2.2rem;
   padding: 1.7rem 3.3rem 1.7rem 2rem;
+  font-weight: bold;
 }/*# sourceMappingURL=main.css.map */
