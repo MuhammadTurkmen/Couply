@@ -303,4 +303,13 @@ footer .footer-wrapper .right-footer .footer-nav .active {
 footer .footer-wrapper .right-footer p {
   font-size: 1.4rem;
   color: #6C7667;
+}
+
+@media only screen and (min-width: 730px) {
+  .hide-tablet {
+    display: none;
+  }
+  .hide-mobile {
+    display: unset;
+  }
 }/*# sourceMappingURL=main.css.map */
