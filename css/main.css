@@ -148,4 +148,25 @@ main .shops-item-div .first-item-div {
   height: 205px;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
+}
+main .shops-item-div .second-item-div {
+  background-image: url(../assets/shoes.jpeg);
+  background-size: cover;
+  background-position: 0;
+  width: 349px;
+  height: 205px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+main .shops-item-div .third-item-div {
+  background-image: url(../assets/shoes.jpeg);
+  background-size: cover;
+  background-position: 0;
+  width: 349px;
+  height: 205px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }/*# sourceMappingURL=main.css.map */

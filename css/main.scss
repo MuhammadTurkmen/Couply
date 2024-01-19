@@ -153,8 +153,31 @@ main {
             height: 205px;
             display: flex;
             flex-direction: column;
+            justify-content: space-between;
         }
 
+        .second-item-div {
+            background-image: url(../assets/shoes.jpeg);
+            background-size: cover;
+            background-position: 0;
+            width: 349px;
+            height: 205px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .third-item-div {
+            background-image: url(../assets/shoes.jpeg);
+            background-size: cover;
+            background-position: 0;
+            width: 349px;
+            height: 205px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        
 
     }
 
