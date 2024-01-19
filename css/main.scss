@@ -209,7 +209,9 @@ main {
             display: flex;
             flex-direction: column;
             justify-content: space-between;
-            
+            border: var(--border);
+            box-shadow: var(--box-shadow);
+
             .name {
                 background-color: white;
                 margin: 0;
