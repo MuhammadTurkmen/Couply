@@ -275,6 +275,11 @@ footer {
         padding-left: 3.3rem;
         padding-right: 3.3rem;
 
+        .left-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
 
     }
 }

@@ -257,4 +257,9 @@ footer .footer-wrapper {
   gap: 7.3rem;
   padding-left: 3.3rem;
   padding-right: 3.3rem;
+}
+footer .footer-wrapper .left-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }/*# sourceMappingURL=main.css.map */
