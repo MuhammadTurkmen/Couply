@@ -319,6 +319,8 @@ footer .footer-wrapper .right-footer p {
     display: unset;
   }
   .header-wrapper {
+    padding-left: 4rem;
+    padding-right: 4rem;
     align-items: center;
   }
   .header-wrapper .nav {
