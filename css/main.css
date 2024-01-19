@@ -156,6 +156,9 @@ main .shops-item-div .first-item-div .name {
   background-color: white;
   margin: 0;
   font-size: 16px;
+  padding-top: 1.8rem;
+  padding-bottom: 1.8rem;
+  padding-left: 1.8rem;
 }
 main .shops-item-div .first-item-div .price {
   background-color: #000;
