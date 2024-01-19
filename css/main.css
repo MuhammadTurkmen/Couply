@@ -112,7 +112,7 @@ main .shops-div {
 main .shops-div .shops-names {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 4rem;
+  gap: 7rem;
   margin: 0 2rem;
 }
 main .shops-div .shops-names .one {
@@ -139,6 +139,7 @@ main .shops-item-div {
   flex-direction: column;
   align-items: center;
   gap: 2rem;
+  margin-top: -10rem;
 }
 main .shops-item-div .first-item-div {
   background-image: url(../assets/shoes.jpeg);

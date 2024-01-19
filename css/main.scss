@@ -132,7 +132,7 @@ main {
 
             display: grid;
             grid-template-columns: repeat(2, 1fr);
-            gap: 4rem;
+            gap: 7rem;
             margin: 0 2rem;
 
         }
@@ -144,7 +144,8 @@ main {
         flex-direction: column;
         align-items: center;
         gap: 2rem;
-
+        margin-top: -10rem;
+        
         .first-item-div {
             background-image: url(../assets/shoes.jpeg);
             background-size: cover;
