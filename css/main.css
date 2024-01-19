@@ -12,7 +12,7 @@ html {
 
 body {
   margin: 0;
-  background-color: var(--primary-color);
+  background-color: var(#fff);
 }
 
 a {
@@ -26,6 +26,7 @@ a {
 
 header {
   border-bottom: var(--second-border);
+  background-color: var(--primary-color);
 }
 
 .header-wrapper {
@@ -34,6 +35,9 @@ header {
   padding: 2em;
 }
 
+section {
+  background-color: var(--primary-color);
+}
 section .left-col {
   text-align: center;
   padding: 3rem 5rem;

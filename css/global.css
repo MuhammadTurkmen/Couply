@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  background-color: var(--primary-color);
+  background-color: var(#fff);
 }
 
 a {
