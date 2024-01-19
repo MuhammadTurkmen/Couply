@@ -266,6 +266,12 @@ footer .footer-wrapper .left-footer {
 footer .footer-wrapper .left-footer .svg {
   margin-bottom: 1.2rem;
 }
+footer .footer-wrapper .left-footer .footer-media {
+  text-align: center;
+}
+footer .footer-wrapper .left-footer .footer-media a {
+  font-size: 1.4rem;
+}
 footer .footer-wrapper .left-footer .footer-media .footer-media-svg {
   display: flex;
   gap: 1.2rem;

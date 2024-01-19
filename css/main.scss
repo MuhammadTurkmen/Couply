@@ -285,11 +285,15 @@ footer {
            }
 
            .footer-media {
+
+            text-align: center;
+
+                a {
+                    font-size: 1.4rem;
+                }
                 .footer-media-svg {
                     display: flex;
                     gap: 1.2rem;
-
-                    
 
                     .last {
                         margin-left: 1.4rem;
