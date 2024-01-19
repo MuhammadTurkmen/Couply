@@ -54,12 +54,13 @@ section {
 
     .right-col {
         padding: 5.2rem 2rem;
-        padding-right: 10rem;
 
         .extention-part-div {
             display: flex;
             flex-direction: column;
             gap: 3rem;
+            padding-right: 10rem;
+            
 
             .step {
                 display: flex;

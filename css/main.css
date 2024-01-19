@@ -70,12 +70,12 @@ section .left-col .other-users-div .users-img-div img {
 }
 section .right-col {
   padding: 5.2rem 2rem;
-  padding-right: 10rem;
 }
 section .right-col .extention-part-div {
   display: flex;
   flex-direction: column;
   gap: 3rem;
+  padding-right: 10rem;
 }
 section .right-col .extention-part-div .step {
   display: flex;
