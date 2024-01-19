@@ -99,4 +99,5 @@ section .right-col .download-extention-div {
   font-size: 2.2rem;
   align-items: center;
   padding: 1.5rem 0;
+  border: var(--border);
 }/*# sourceMappingURL=main.css.map */
