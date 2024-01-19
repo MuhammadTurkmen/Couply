@@ -265,9 +265,11 @@ main {
 }
 
 footer {
+    border-top: var(--second-border);
 
     .footer-wrapper {
         display: flex;
         flex-direction: column;
+        gap: 7.3rem;
     }
 }

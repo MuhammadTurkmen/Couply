@@ -247,7 +247,11 @@ main .view a {
   text-decoration: underline;
 }
 
+footer {
+  border-top: var(--second-border);
+}
 footer .footer-wrapper {
   display: flex;
   flex-direction: column;
+  gap: 7.3rem;
 }/*# sourceMappingURL=main.css.map */
