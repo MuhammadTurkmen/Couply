@@ -353,4 +353,10 @@ footer .footer-wrapper .right-footer p {
     padding-left: unset;
     padding-right: 5rem;
   }
+  section .left-col .users-div {
+    display: flex;
+    align-items: center;
+    padding-left: 2rem;
+    gap: 5rem;
+  }
 }/*# sourceMappingURL=main.css.map */
