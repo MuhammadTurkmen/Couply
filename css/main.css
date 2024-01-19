@@ -281,9 +281,13 @@ footer .footer-wrapper .left-footer .footer-media .footer-media-svg .last {
 }
 footer .footer-wrapper .right-footer {
   text-align: center;
+  margin-bottom: 6.9rem;
 }
 footer .footer-wrapper .right-footer .footer-nav {
   display: flex;
   gap: 3rem;
   justify-content: center;
+}
+footer .footer-wrapper .right-footer .footer-nav a {
+  font-size: 1.8rem;
 }/*# sourceMappingURL=main.css.map */

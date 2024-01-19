@@ -306,11 +306,16 @@ footer {
 
         .right-footer {
             text-align: center;
-
+            margin-bottom: 6.9rem;
             .footer-nav{
                 display: flex;
                 gap: 3rem;
                 justify-content: center;
+
+                a {
+                    font-size: 1.8rem;
+                }
+
             }
         }
     }
