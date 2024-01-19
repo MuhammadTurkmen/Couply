@@ -38,7 +38,9 @@ section .left-col {
   text-align: center;
   margin: 3rem 5rem;
 }
-
+section .left-col p {
+  font-size: 16px;
+}
 section h1 {
   font-size: 3.2rem;
   line-height: 125.4%; /* 40.128px */
