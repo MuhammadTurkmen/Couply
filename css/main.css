@@ -249,6 +249,7 @@ main .view a {
 
 footer {
   border-top: var(--second-border);
+  padding-top: 3.8rem;
 }
 footer .footer-wrapper {
   display: flex;

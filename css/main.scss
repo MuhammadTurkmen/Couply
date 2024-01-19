@@ -266,10 +266,14 @@ main {
 
 footer {
     border-top: var(--second-border);
+    padding-top: 3.8rem;
 
     .footer-wrapper {
         display: flex;
         flex-direction: column;
         gap: 7.3rem;
+
+        
+
     }
 }
