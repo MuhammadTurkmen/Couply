@@ -237,4 +237,8 @@ main .view {
   align-items: center;
   justify-content: center;
   margin-bottom: 7.4rem;
+}
+main .view a {
+  font-size: 2.6rem;
+  text-decoration: underline;
 }/*# sourceMappingURL=main.css.map */
