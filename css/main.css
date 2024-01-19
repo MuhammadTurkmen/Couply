@@ -293,6 +293,9 @@ footer .footer-wrapper .right-footer .footer-nav {
 footer .footer-wrapper .right-footer .footer-nav a {
   font-size: 1.8rem;
 }
+footer .footer-wrapper .right-footer .footer-nav .active {
+  text-decoration: underline;
+}
 footer .footer-wrapper .right-footer p {
   font-size: 1.4rem;
   color: #6C7667;
