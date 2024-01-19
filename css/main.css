@@ -151,7 +151,7 @@ main .shops-item-div .first-item-div {
   justify-content: space-between;
 }
 main .shops-item-div .second-item-div {
-  background-image: url(../assets/shoes.jpeg);
+  background-image: url(../assets/Arow.jpeg);
   background-size: cover;
   background-position: 0;
   width: 349px;
@@ -161,7 +161,7 @@ main .shops-item-div .second-item-div {
   justify-content: space-between;
 }
 main .shops-item-div .third-item-div {
-  background-image: url(../assets/shoes.jpeg);
+  background-image: url(../assets/headphone.jpeg);
   background-size: cover;
   background-position: 0;
   width: 349px;
