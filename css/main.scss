@@ -340,6 +340,12 @@ footer {
         display: none;
     }
 
+    .view-all-brend-div {
+        display: none;
+        svg {
+            display: none;
+        }
+    }
     .hide-mobile {
         display: unset;
     }

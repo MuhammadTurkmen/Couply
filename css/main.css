@@ -309,6 +309,12 @@ footer .footer-wrapper .right-footer p {
   .hide-tablet {
     display: none;
   }
+  .view-all-brend-div {
+    display: none;
+  }
+  .view-all-brend-div svg {
+    display: none;
+  }
   .hide-mobile {
     display: unset;
   }
