@@ -25,4 +25,8 @@ a {
 
 .hide-mobile {
   display: none;
+}
+
+.header-wrapper {
+  display: flex;
 }/*# sourceMappingURL=main.css.map */
