@@ -245,4 +245,9 @@ main .view {
 main .view a {
   font-size: 2.6rem;
   text-decoration: underline;
+}
+
+footer .footer-wrapper {
+  display: flex;
+  flex-direction: column;
 }/*# sourceMappingURL=main.css.map */

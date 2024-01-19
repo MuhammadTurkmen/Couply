@@ -8,6 +8,7 @@ header {
 
 .header-wrapper {
     display: flex;
+    
     justify-content: space-between;
     padding: 2em;
 }
@@ -260,5 +261,13 @@ main {
             font-size: 2.6rem;
             text-decoration: underline;
         }
+    }
+}
+
+footer {
+
+    .footer-wrapper {
+        display: flex;
+        flex-direction: column;
     }
 }
