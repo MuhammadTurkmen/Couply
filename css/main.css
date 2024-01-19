@@ -88,4 +88,13 @@ section .right-col .extention-part-div .step strong {
 section .right-col .extention-part-div .step span {
   color: #608A4D;
   font-weight: bold;
+}
+section .right-col .download-extention-div {
+  margin-top: 4.7rem;
+  display: flex;
+  justify-content: center;
+  background-color: #9BC588;
+  gap: 1.4rem;
+  font-weight: bold;
+  font-size: 2.2rem;
 }/*# sourceMappingURL=main.css.map */
