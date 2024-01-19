@@ -349,4 +349,12 @@ footer {
     .hide-mobile {
         display: unset;
     }
+
+    .header-wrapper {
+        align-items: center;
+        .nav {
+            display: flex;
+            gap: 4rem;
+        }
+    }
 }

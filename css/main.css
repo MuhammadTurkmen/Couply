@@ -318,4 +318,11 @@ footer .footer-wrapper .right-footer p {
   .hide-mobile {
     display: unset;
   }
+  .header-wrapper {
+    align-items: center;
+  }
+  .header-wrapper .nav {
+    display: flex;
+    gap: 4rem;
+  }
 }/*# sourceMappingURL=main.css.map */
