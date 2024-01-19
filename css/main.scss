@@ -108,8 +108,29 @@ main {
         padding-bottom: 16.5rem;
 
         .shops-names{
+            .one {
+                width: 88px;
+            }
+            .two {
+                width: 63px;
+                height: 36px;
+            }
+            .three {
+                width: 106px;
+                height: 30px;
+            }
+            .four {
+                width: 107px;
+                height: 26px;
+            }
+
+
+
             display: grid;
             grid-template-columns: repeat(2, 1fr);
+            gap: 4rem;
+            margin: 0 2rem;
+
         }
 
     }

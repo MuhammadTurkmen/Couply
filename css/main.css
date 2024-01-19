@@ -112,4 +112,21 @@ main .shops-div {
 main .shops-div .shops-names {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  gap: 4rem;
+  margin: 0 2rem;
+}
+main .shops-div .shops-names .one {
+  width: 88px;
+}
+main .shops-div .shops-names .two {
+  width: 63px;
+  height: 36px;
+}
+main .shops-div .shops-names .three {
+  width: 106px;
+  height: 30px;
+}
+main .shops-div .shops-names .four {
+  width: 107px;
+  height: 26px;
 }/*# sourceMappingURL=main.css.map */
