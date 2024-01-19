@@ -133,4 +133,7 @@ main .shops-div .shops-names .four {
   width: 107px;
   height: 26px;
   justify-self: center;
+}
+main .shops-item-div {
+  display: flex;
 }/*# sourceMappingURL=main.css.map */
