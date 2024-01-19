@@ -355,6 +355,10 @@ footer {
         .nav {
             display: flex;
             gap: 4rem;
+
+            a {
+                font-size: 1.8rem;
+            }
         }
     }
 }
