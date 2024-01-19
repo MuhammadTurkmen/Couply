@@ -102,4 +102,8 @@ section .right-col .download-extention-div {
   border: var(--border);
   border-radius: 0.5rem;
   box-shadow: var(--box-shadow);
+}
+
+main .shops-div {
+  background-color: #000;
 }/*# sourceMappingURL=main.css.map */
