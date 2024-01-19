@@ -261,5 +261,15 @@ footer .footer-wrapper {
 footer .footer-wrapper .left-footer {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
+}
+footer .footer-wrapper .left-footer .svg {
+  margin-bottom: 1.2rem;
+}
+footer .footer-wrapper .left-footer .footer-media .footer-media-svg {
+  display: flex;
+  gap: 1.2rem;
+}
+footer .footer-wrapper .left-footer .footer-media .footer-media-svg .last {
+  margin-left: 1.4rem;
 }/*# sourceMappingURL=main.css.map */
