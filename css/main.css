@@ -235,4 +235,5 @@ main .shops-item-div .third-item-div .price {
 main .view {
   display: flex;
   align-items: center;
+  justify-content: center;
 }/*# sourceMappingURL=main.css.map */
