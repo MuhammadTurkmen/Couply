@@ -328,4 +328,20 @@ footer .footer-wrapper .right-footer p {
   .header-wrapper .nav a {
     font-size: 1.8rem;
   }
+  .header-wrapper .nav .active {
+    text-decoration: underline;
+  }
+  .header-wrapper .start {
+    display: flex;
+    align-items: center;
+    gap: 1.4rem;
+    background-color: #C6DBBD;
+    padding: 0.8rem 2rem;
+    border: var(--second-border);
+    border-radius: 0.5rem;
+  }
+  .header-wrapper .start a {
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
 }/*# sourceMappingURL=main.css.map */

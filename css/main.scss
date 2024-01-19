@@ -359,6 +359,25 @@ footer {
             a {
                 font-size: 1.8rem;
             }
+            .active {
+                text-decoration: underline;
+            }
+
+        }
+
+        .start {
+            display: flex;
+            align-items: center;
+            gap: 1.4rem;
+            background-color: #C6DBBD;
+            padding: .8rem 2rem;
+            border: var(--second-border);
+            border-radius: .5rem;
+
+            a {
+                font-size: 1.8rem;
+                font-weight: bold;
+            }
         }
     }
 }
