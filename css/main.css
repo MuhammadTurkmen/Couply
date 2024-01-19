@@ -14,10 +14,6 @@ body {
   background-color: var(--primary-color);
 }
 
-.wrapper {
-  margin: 2em;
-}
-
 a {
   text-decoration: none;
   color: var(--link-color);
@@ -27,6 +23,12 @@ a {
   display: none;
 }
 
+header {
+  border-bottom: var(--border);
+}
+
 .header-wrapper {
   display: flex;
+  justify-content: space-between;
+  padding: 2em;
 }/*# sourceMappingURL=main.css.map */
