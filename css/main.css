@@ -61,4 +61,12 @@ section .left-col .other-users-div .users-img-div {
 }
 section .left-col .other-users-div .users-img-div img {
   margin-left: -2rem;
+}
+section .right-col {
+  padding: 5.2rem 2rem;
+}
+section .right-col .extention-part-div {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
 }/*# sourceMappingURL=main.css.map */

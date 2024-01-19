@@ -46,10 +46,16 @@ section {
                 }
             }
         }
+    }
 
+    .right-col {
+        padding: 5.2rem 2rem;
 
-
-        
+        .extention-part-div {
+            display: flex;
+            flex-direction: column;
+            gap: 3rem;
+        }
 
     }
 
