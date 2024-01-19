@@ -149,6 +149,19 @@ main .shops-item-div .first-item-div {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  border: var(--border);
+  box-shadow: var(--box-shadow);
+}
+main .shops-item-div .first-item-div .name {
+  background-color: white;
+  margin: 0;
+  font-size: 16px;
+}
+main .shops-item-div .first-item-div .price {
+  background-color: #000;
+  color: white;
+  align-self: flex-end;
+  margin: 0;
 }
 main .shops-item-div .second-item-div {
   background-image: url(../assets/Arow.jpeg);
@@ -159,6 +172,19 @@ main .shops-item-div .second-item-div {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  border: var(--border);
+  box-shadow: var(--box-shadow);
+}
+main .shops-item-div .second-item-div .name {
+  background-color: white;
+  margin: 0;
+  font-size: 16px;
+}
+main .shops-item-div .second-item-div .price {
+  background-color: #000;
+  color: white;
+  align-self: flex-end;
+  margin: 0;
 }
 main .shops-item-div .third-item-div {
   background-image: url(../assets/headphone.jpeg);
@@ -169,4 +195,15 @@ main .shops-item-div .third-item-div {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+}
+main .shops-item-div .third-item-div .name {
+  background-color: white;
+  margin: 0;
+  font-size: 16px;
+}
+main .shops-item-div .third-item-div .price {
+  background-color: #000;
+  color: white;
+  align-self: flex-end;
+  margin: 0;
 }/*# sourceMappingURL=main.css.map */

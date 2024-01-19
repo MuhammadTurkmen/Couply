@@ -154,6 +154,23 @@ main {
             display: flex;
             flex-direction: column;
             justify-content: space-between;
+            border: var(--border);
+            box-shadow: var(--box-shadow);
+
+            .name {
+                background-color: white;
+                margin: 0;
+                font-size: 16px;
+
+            }
+
+            .price {
+                background-color: #000;
+                color: white;
+                align-self: flex-end;
+                margin: 0;
+            }
+
         }
 
         .second-item-div {
@@ -165,6 +182,22 @@ main {
             display: flex;
             flex-direction: column;
             justify-content: space-between;
+            border: var(--border);
+            box-shadow: var(--box-shadow);
+
+            .name {
+                background-color: white;
+                margin: 0;
+                font-size: 16px;
+
+            }
+
+            .price {
+                background-color: #000;
+                color: white;
+                align-self: flex-end;
+                margin: 0;
+            }
         }
 
         .third-item-div {
@@ -176,6 +209,20 @@ main {
             display: flex;
             flex-direction: column;
             justify-content: space-between;
+            
+            .name {
+                background-color: white;
+                margin: 0;
+                font-size: 16px;
+            }
+
+            .price {
+                background-color: #000;
+                color: white;
+                align-self: flex-end;
+                margin: 0;
+            }
+
         }
         
 
