@@ -5,9 +5,14 @@ html {
 
 body {
     margin: 0;
-    background-color: #E8F5E2;
+    background-color: var(--primary-color)
 }
 
 .wrapper {
     margin: 2em;
+}
+
+a {
+    text-decoration: none;
+    color: var(--link-color);
 }
