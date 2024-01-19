@@ -351,7 +351,7 @@ footer {
     }
 
     .header-wrapper {
-        padding-left: 4rem;
+        padding-left: 5rem;
         padding-right: 4rem;
         align-items: center;
         .nav {
@@ -382,4 +382,18 @@ footer {
             }
         }
     }
+
+
+    section {
+        .left-col {
+            text-align: start;
+            
+            h1 {
+                padding-left: unset;
+                padding-right: 5rem;
+            }
+        }
+    }
+
+
 }
