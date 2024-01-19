@@ -100,4 +100,6 @@ section .right-col .download-extention-div {
   align-items: center;
   padding: 1.5rem 0;
   border: var(--border);
+  border-radius: 0.5rem;
+  box-shadow: var();
 }/*# sourceMappingURL=main.css.map */
