@@ -245,11 +245,12 @@ main {
                 padding: 1.7rem 3.3rem 1.7rem 2rem;
                 font-weight: bold;
             }
-
         }
-        
-
     }
 
 
+    .view {
+        display: flex;
+        align-items: center;
+    }
 }
