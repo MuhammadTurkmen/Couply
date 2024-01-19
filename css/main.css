@@ -111,4 +111,5 @@ main .shops-div {
 }
 main .shops-div .shops-names {
   display: grid;
+  grid-template-columns: repeat(2, 1fr);
 }/*# sourceMappingURL=main.css.map */
