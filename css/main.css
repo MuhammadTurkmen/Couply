@@ -32,4 +32,13 @@ header {
   display: flex;
   justify-content: space-between;
   padding: 2em;
+}
+
+section .left-col {
+  text-align: center;
+}
+
+section h1 {
+  font-size: 3.2rem;
+  line-height: 125.4%; /* 40.128px */
 }/*# sourceMappingURL=main.css.map */
