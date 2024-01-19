@@ -101,5 +101,5 @@ section .right-col .download-extention-div {
   padding: 1.5rem 0;
   border: var(--border);
   border-radius: 0.5rem;
-  box-shadow: var();
+  box-shadow: var(--box-shadow);
 }/*# sourceMappingURL=main.css.map */
