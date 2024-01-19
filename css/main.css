@@ -250,6 +250,7 @@ main .view a {
 footer {
   border-top: var(--second-border);
   padding-top: 3.8rem;
+  background-color: var(--primary-color);
 }
 footer .footer-wrapper {
   display: flex;
