@@ -556,6 +556,15 @@ footer .footer-wrapper .right-footer p {
   }
 }
 @media only screen and (min-width: 1030px) {
+  .view-all-brend-div {
+    display: unset;
+  }
+  .view-all-brend-div a {
+    color: #fff;
+  }
+  .view-all-brend-div svg {
+    display: unset;
+  }
   header .header-wrapper {
     max-width: 1200px;
   }
@@ -563,5 +572,9 @@ footer .footer-wrapper .right-footer p {
     max-width: 1300px;
     display: flex;
     margin: 0 auto;
+  }
+  section .section-wrapper .right-col {
+    border: unset;
+    border-left: var(--second-border);
   }
 }/*# sourceMappingURL=main.css.map */

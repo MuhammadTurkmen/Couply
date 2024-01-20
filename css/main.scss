@@ -662,6 +662,16 @@ footer {
 
 @media only screen and (min-width: 1030px) {
     
+    .view-all-brend-div {
+        display: unset;
+        a {
+            color: #fff;
+        }
+        svg {
+            display: unset;
+        }
+    }
+
     header {
         .header-wrapper {
             max-width: 1200px;
@@ -687,7 +697,8 @@ footer {
             }
     
             .right-col {
-    
+                border: unset;
+                border-left: var(--second-border);
             }
         }
     }
