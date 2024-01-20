@@ -621,10 +621,10 @@ footer {
     // tablet Footer section
     footer {
         .footer-wrapper {
-            flex-direction: row;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
             justify-content: space-between;
         }
-
 
     }
 
