@@ -576,7 +576,7 @@ footer .footer-wrapper .right-footer p {
   section .section-wrapper .left-col {
     position: relative;
   }
-  section .section-wrapper .left-col .title-div h1 img {
+  section .section-wrapper .left-col .title-div h1 .star {
     position: absolute;
   }
   section .section-wrapper .right-col {
