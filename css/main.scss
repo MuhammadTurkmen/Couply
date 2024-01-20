@@ -736,6 +736,7 @@ footer {
                 .shops-names {
                     max-width: unset;
                     gap: 2rem;
+                    margin-left: 0;
                     img {
                         width: unset;
                         height: unset;
@@ -745,7 +746,7 @@ footer {
                         justify-self: start;
                     }
                     .two {
-                        
+                        justify-self: start;
                     }
                 }
                 .view-all-brend-div {

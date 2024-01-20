@@ -608,12 +608,16 @@ footer .footer-wrapper .right-footer p {
   main .shops-div .shops-div-wrapper .shops-names {
     max-width: unset;
     gap: 2rem;
+    margin-left: 0;
   }
   main .shops-div .shops-div-wrapper .shops-names img {
     width: unset;
     height: unset;
   }
   main .shops-div .shops-div-wrapper .shops-names .one {
+    justify-self: start;
+  }
+  main .shops-div .shops-div-wrapper .shops-names .two {
     justify-self: start;
   }
   main .shops-div .shops-div-wrapper .view-all-brend-div {
