@@ -140,11 +140,11 @@ main {
             }
 
 
-
             display: grid;
             grid-template-columns: repeat(2, 1fr);
             gap: 7rem;
             margin: 0 2rem;
+
 
         }
 
@@ -473,106 +473,127 @@ footer {
 
     // Tablet Main Section
 
-    .fourth-item-div {
-        background-image: url(../assets/shoes.jpeg);
-        background-size: cover;
-        background-position: 0;
-        width: 349px;
-        height: 205px;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        border: var(--border);
-        box-shadow: var(--box-shadow);
 
-        .name {
-            background-color: white;
-            margin: 0;
-            font-size: 16px;
-            padding-top: 1.8rem;
-            padding-bottom: 1.8rem;
-            padding-left: 1.8rem;
-            font-weight: bold;
+    main {
+        .shops-div {
+            .shops-names {
+                grid-template-columns: repeat(4, 1fr);
+                
+                .two {
+                    justify-self: center;
+                }
+
+                .three {
+                    justify-self: start;
+                }
+
+            }
         }
 
-        .price {
-            background-color: #000;
-            color: white;
-            align-self: flex-end;
-            margin: 0;
-            font-size: 2.2rem;
-            padding: 1.7rem 3.3rem 1.7rem 2rem;
-            font-weight: bold;
-        }
-
+        
     }
 
-    .fifth-item-div {
-        background-image: url(../assets/Arow.jpeg);
-        background-size: cover;
-        background-position: 0;
-        width: 349px;
-        height: 205px;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        border: var(--border);
-        box-shadow: var(--box-shadow);
 
-        .name {
-            background-color: white;
-            margin: 0;
-            font-size: 16px;
-            padding-top: 1.8rem;
-            padding-bottom: 1.8rem;
-            padding-left: 1.8rem;
-            font-weight: bold;
+    // .fourth-item-div {
+    //     background-image: url(../assets/shoes.jpeg);
+    //     background-size: cover;
+    //     background-position: 0;
+    //     width: 349px;
+    //     height: 205px;
+    //     display: flex;
+    //     flex-direction: column;
+    //     justify-content: space-between;
+    //     border: var(--border);
+    //     box-shadow: var(--box-shadow);
 
-        }
+    //     .name {
+    //         background-color: white;
+    //         margin: 0;
+    //         font-size: 16px;
+    //         padding-top: 1.8rem;
+    //         padding-bottom: 1.8rem;
+    //         padding-left: 1.8rem;
+    //         font-weight: bold;
+    //     }
 
-        .price {
-            background-color: #000;
-            color: white;
-            align-self: flex-end;
-            margin: 0;
-            font-size: 2.2rem;
-            padding: 1.7rem 3.3rem 1.7rem 2rem;
-            font-weight: bold;
-        }
-    }
+    //     .price {
+    //         background-color: #000;
+    //         color: white;
+    //         align-self: flex-end;
+    //         margin: 0;
+    //         font-size: 2.2rem;
+    //         padding: 1.7rem 3.3rem 1.7rem 2rem;
+    //         font-weight: bold;
+    //     }
 
-    .sixth-item-div {
-        background-image: url(../assets/headphone.jpeg);
-        background-size: cover;
-        background-position: 0;
-        width: 349px;
-        height: 205px;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        border: var(--border);
-        box-shadow: var(--box-shadow);
+    // }
 
-        .name {
-            background-color: white;
-            margin: 0;
-            font-size: 16px;
-            padding-top: 1.8rem;
-            padding-bottom: 1.8rem;
-            padding-left: 1.8rem;
-            font-weight: bold;
-        }
+    // .fifth-item-div {
+    //     background-image: url(../assets/Arow.jpeg);
+    //     background-size: cover;
+    //     background-position: 0;
+    //     width: 349px;
+    //     height: 205px;
+    //     display: flex;
+    //     flex-direction: column;
+    //     justify-content: space-between;
+    //     border: var(--border);
+    //     box-shadow: var(--box-shadow);
 
-        .price {
-            background-color: #000;
-            color: white;
-            align-self: flex-end;
-            margin: 0;
-            font-size: 2.2rem;
-            padding: 1.7rem 3.3rem 1.7rem 2rem;
-            font-weight: bold;
-        }
-    }
+    //     .name {
+    //         background-color: white;
+    //         margin: 0;
+    //         font-size: 16px;
+    //         padding-top: 1.8rem;
+    //         padding-bottom: 1.8rem;
+    //         padding-left: 1.8rem;
+    //         font-weight: bold;
+
+    //     }
+
+    //     .price {
+    //         background-color: #000;
+    //         color: white;
+    //         align-self: flex-end;
+    //         margin: 0;
+    //         font-size: 2.2rem;
+    //         padding: 1.7rem 3.3rem 1.7rem 2rem;
+    //         font-weight: bold;
+    //     }
+    // }
+
+    // .sixth-item-div {
+    //     background-image: url(../assets/headphone.jpeg);
+    //     background-size: cover;
+    //     background-position: 0;
+    //     width: 349px;
+    //     height: 205px;
+    //     display: flex;
+    //     flex-direction: column;
+    //     justify-content: space-between;
+    //     border: var(--border);
+    //     box-shadow: var(--box-shadow);
+
+    //     .name {
+    //         background-color: white;
+    //         margin: 0;
+    //         font-size: 16px;
+    //         padding-top: 1.8rem;
+    //         padding-bottom: 1.8rem;
+    //         padding-left: 1.8rem;
+    //         font-weight: bold;
+    //     }
+
+    //     .price {
+    //         background-color: #000;
+    //         color: white;
+    //         align-self: flex-end;
+    //         margin: 0;
+    //         font-size: 2.2rem;
+    //         padding: 1.7rem 3.3rem 1.7rem 2rem;
+    //         font-weight: bold;
+    //     }
+    // }
 
 
 }
