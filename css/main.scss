@@ -452,7 +452,8 @@ footer {
             padding-left: 5rem;
             display: flex;
             flex-direction: column;
-            
+            max-width: 730px;
+            margin: 0 auto;
             .extention-part-div {
                 flex-direction: row;
                 gap: 5.5rem;
@@ -486,6 +487,8 @@ footer {
 
         .shops-div {
             .shops-names {
+                max-width: 730px;
+                margin: 0 auto;
                 grid-template-columns: repeat(4, 1fr);
                 
                 .two {
