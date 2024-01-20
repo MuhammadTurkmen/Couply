@@ -699,6 +699,18 @@ footer {
             .right-col {
                 border: unset;
                 border-left: var(--second-border);
+                padding-left: 6.4rem;
+                padding-top: 8rem;
+                .extention-part-div {
+                    flex-direction: column;
+                    gap: unset;
+
+                    .step {
+                        flex-direction: row;
+                        align-items: center;
+                        gap: 2.3rem;
+                    }
+                }
             }
         }
     }
