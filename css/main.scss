@@ -406,6 +406,12 @@ footer {
                     align-items: center;
                     gap: 1.8rem;
 
+                    img {
+                        width: 60px;
+                        height: 60px;
+                        object-fit: cover;
+                    }
+
                     strong {
                         display: block;
                     }
