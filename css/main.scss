@@ -735,11 +735,12 @@ footer {
                 gap: 2rem; 
                 .shops-names {
                     max-width: unset;
-                    gap: 10rem;
-                    justify-self: start;
+                    gap: 2rem;
+                    justify-content: start;
                     img {
                         width: unset;
                         height: unset;
+
                     }
                     .one {
                         justify-self: start;
