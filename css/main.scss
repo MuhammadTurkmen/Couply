@@ -621,8 +621,8 @@ footer {
     // tablet Footer section
     footer {
         .footer-wrapper {
-            display: flex;
             flex-direction: row;
+            justify-content: space-between;
         }
 
 

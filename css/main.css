@@ -525,7 +525,7 @@ footer .footer-wrapper .right-footer p {
     width: 40%;
   }
   footer .footer-wrapper {
-    display: flex;
     flex-direction: row;
+    justify-content: space-between;
   }
 }/*# sourceMappingURL=main.css.map */
