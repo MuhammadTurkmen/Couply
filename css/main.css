@@ -623,4 +623,7 @@ footer .footer-wrapper .right-footer p {
   footer .footer-wrapper {
     max-width: 1200px;
   }
+  footer .footer-wrapper .right-footer {
+    justify-self: end;
+  }
 }/*# sourceMappingURL=main.css.map */
