@@ -417,8 +417,15 @@ footer .footer-wrapper .right-footer p {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
   }
+  main .shops-item-div .first-item-div {
+    justify-self: end;
+  }
+  main .shops-item-div .fifth-item-div {
+    justify-self: end;
+  }
   main .shops-item-div .third-item-div {
     background-image: url(../assets/heel.jpeg);
+    justify-self: end;
   }
   main .shops-item-div .fourth-item-div {
     background-image: url(../assets/headphone.jpeg);

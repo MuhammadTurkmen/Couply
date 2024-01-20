@@ -493,8 +493,15 @@ footer {
         .shops-item-div {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
+            .first-item-div {
+                justify-self: end;
+            }
+            .fifth-item-div {
+                justify-self: end;
+            }
             .third-item-div {
                 background-image: url(../assets/heel.jpeg);
+                justify-self: end;
             }
 
             .fourth-item-div {
