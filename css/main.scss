@@ -661,23 +661,33 @@ footer {
 
 
 @media only screen and (min-width: 1030px) {
-    .header-wrapper {
-
+    
+    header {
+        .header-wrapper {
+            max-width: 1200px;
+            
+        }
+        
     }
 
     section {
-        .left-col {
-            .title-div {
 
+        .section-wrapper {
+            max-width: 1200px;
+            display: flex;
+            .left-col {
+                .title-div {
+    
+                }
+    
+                .users-div {
+    
+                }
             }
-
-            .users-div {
-
+    
+            .right-col {
+    
             }
-        }
-
-        .right-col {
-
         }
     }
 

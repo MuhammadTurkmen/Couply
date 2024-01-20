@@ -554,4 +554,13 @@ footer .footer-wrapper .right-footer p {
     flex-direction: column;
     justify-content: space-between;
   }
+}
+@media only screen and (min-width: 1030px) {
+  header .header-wrapper {
+    max-width: 1200px;
+  }
+  section .section-wrapper {
+    max-width: 1200px;
+    display: flex;
+  }
 }/*# sourceMappingURL=main.css.map */
