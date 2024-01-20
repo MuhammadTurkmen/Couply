@@ -723,12 +723,22 @@ footer {
     main {
         .shops-div {
             .shops-div-wrapper {
-                max-width: 1200px;
+                max-width: 1300px;
+                justify-content: space-between;
                 display: flex;
                 margin: 0 auto; 
                 .shops-names {
-
                     max-width: unset;
+                    img {
+                        width: unset;
+                        height: unset;
+                    }
+                }
+                .view-all-brend-div {
+                    display: flex;
+                    a {
+                        font-size: ;
+                    }
                 }
             }
 
