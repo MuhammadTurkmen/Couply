@@ -603,7 +603,7 @@ footer .footer-wrapper .right-footer p {
     justify-content: space-between;
     display: flex;
     margin: 0 auto;
-    gap: 15rem;
+    gap: 2rem;
   }
   main .shops-div .shops-div-wrapper .shops-names {
     max-width: unset;
