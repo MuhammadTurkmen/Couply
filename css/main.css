@@ -404,6 +404,10 @@ footer .footer-wrapper .right-footer p {
     align-self: flex-start;
     padding: 1.5rem 2.5rem;
   }
+  main {
+    display: flex;
+    flex-direction: column;
+  }
   main .shops-div .shops-names {
     grid-template-columns: repeat(4, 1fr);
   }
