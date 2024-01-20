@@ -387,18 +387,21 @@ footer {
     section {
         .left-col {
             text-align: start;
-            
+            padding-right: 0;
+
             h1 {
                 padding-left: unset;
-                padding-right: 5rem;
+                padding-right: unset;
+                padding-bottom: 3rem;
+                font-size: 4.5rem;
             }
 
             .users-div {
                 display: flex;
-                align-items: center;
+                align-items: end;
                 padding-left: 2rem;
                 gap: 5rem;
-
+                margin-bottom: 3rem;
 
                 .main-user-div {
                     display: flex;
@@ -406,15 +409,21 @@ footer {
                     align-items: center;
                     gap: 1.8rem;
                     padding: 1.5rem 4rem 1.5rem 1.7rem;
-
+                    border-radius: 6.1rem;
                     img {
                         width: 60px;
                         height: 60px;
                         object-fit: cover;
                     }
 
+                    span {
+                        font-size: 1.6rem;
+                    }
+                    
                     strong {
                         display: block;
+                        font-size: 1.4rem;
+                        color: #779469;
                     }
                 }
             }

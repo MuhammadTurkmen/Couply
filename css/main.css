@@ -348,16 +348,20 @@ footer .footer-wrapper .right-footer p {
   }
   section .left-col {
     text-align: start;
+    padding-right: 0;
   }
   section .left-col h1 {
     padding-left: unset;
-    padding-right: 5rem;
+    padding-right: unset;
+    padding-bottom: 3rem;
+    font-size: 4.5rem;
   }
   section .left-col .users-div {
     display: flex;
-    align-items: center;
+    align-items: end;
     padding-left: 2rem;
     gap: 5rem;
+    margin-bottom: 3rem;
   }
   section .left-col .users-div .main-user-div {
     display: flex;
@@ -365,6 +369,7 @@ footer .footer-wrapper .right-footer p {
     align-items: center;
     gap: 1.8rem;
     padding: 1.5rem 4rem 1.5rem 1.7rem;
+    border-radius: 6.1rem;
   }
   section .left-col .users-div .main-user-div img {
     width: 60px;
@@ -372,7 +377,12 @@ footer .footer-wrapper .right-footer p {
     -o-object-fit: cover;
        object-fit: cover;
   }
+  section .left-col .users-div .main-user-div span {
+    font-size: 1.6rem;
+  }
   section .left-col .users-div .main-user-div strong {
     display: block;
+    font-size: 1.4rem;
+    color: #779469;
   }
 }/*# sourceMappingURL=main.css.map */
