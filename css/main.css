@@ -522,8 +522,10 @@ footer .footer-wrapper .right-footer p {
     font-weight: bold;
   }
   main .view {
-    justify-content: flex-start;
-    padding-left: 3.3rem;
+    width: 730px;
+    margin: 2rem auto;
+    display: flex;
+    justify-content: start;
   }
   footer .footer-wrapper {
     display: grid;

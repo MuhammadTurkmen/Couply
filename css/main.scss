@@ -608,11 +608,15 @@ footer {
                 }
             }
         }
-        
+
 
         .view {
-            justify-content: flex-start;
-            padding-left: 3.3rem;
+            width: 730px;
+            
+            margin: 2rem auto;
+            display: flex;
+            justify-content: start;
+            
         }
 
     }
@@ -636,8 +640,7 @@ footer {
                 flex-direction: column;
                 justify-content: space-between;
             }
+            
         }
-
     }
-
 }
