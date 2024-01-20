@@ -608,7 +608,6 @@ footer .footer-wrapper .right-footer p {
   main .shops-div .shops-div-wrapper .shops-names {
     max-width: unset;
     gap: 2rem;
-    justify-content: start;
   }
   main .shops-div .shops-div-wrapper .shops-names img {
     width: unset;
