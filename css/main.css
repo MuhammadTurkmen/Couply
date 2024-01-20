@@ -521,4 +521,7 @@ footer .footer-wrapper .right-footer p {
     padding: 1.7rem 3.3rem 1.7rem 2rem;
     font-weight: bold;
   }
+  main .view {
+    width: 40%;
+  }
 }/*# sourceMappingURL=main.css.map */

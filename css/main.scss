@@ -477,6 +477,7 @@ footer {
     main {
         display: flex;
         flex-direction: column;
+
         .shops-div {
             .shops-names {
                 grid-template-columns: repeat(4, 1fr);
@@ -608,6 +609,12 @@ footer {
             }
         }
         
+
+        .view {
+            width: 40%;
+
+        }
+
     }
 
 
