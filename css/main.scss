@@ -491,7 +491,8 @@ footer {
         }
 
         .shops-item-div {
-            
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
             .fourth-item-div {
                 background-image: url(../assets/shoes.jpeg);
                 background-size: cover;

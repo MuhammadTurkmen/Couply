@@ -413,6 +413,10 @@ footer .footer-wrapper .right-footer p {
   main .shops-div .shops-names .three {
     justify-self: start;
   }
+  main .shops-item-div {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
   main .shops-item-div .fourth-item-div {
     background-image: url(../assets/shoes.jpeg);
     background-size: cover;
