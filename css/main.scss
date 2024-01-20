@@ -429,6 +429,21 @@ footer {
             }
 
         }
+
+        .right-col {
+            
+            .extention-part-div {
+                flex-direction: row;
+                gap: 5.5rem;
+
+
+                .step {
+                    flex-direction: column;
+                    align-items: start;
+                }
+            }
+        }
+
     }
     
 

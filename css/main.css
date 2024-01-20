@@ -385,4 +385,12 @@ footer .footer-wrapper .right-footer p {
     font-size: 1.4rem;
     color: #779469;
   }
+  section .right-col .extention-part-div {
+    flex-direction: row;
+    gap: 5.5rem;
+  }
+  section .right-col .extention-part-div .step {
+    flex-direction: column;
+    align-items: start;
+  }
 }/*# sourceMappingURL=main.css.map */
