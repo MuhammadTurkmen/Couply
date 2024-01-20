@@ -432,6 +432,8 @@ footer {
 
         .right-col {
             padding-left: 5rem;
+            display: flex;
+            flex-direction: column;
             
             .extention-part-div {
                 flex-direction: row;
@@ -444,6 +446,10 @@ footer {
                     gap: unset;
                 }
             }
+
+            
+
+            
         }
 
     }

@@ -387,6 +387,8 @@ footer .footer-wrapper .right-footer p {
   }
   section .right-col {
     padding-left: 5rem;
+    display: flex;
+    flex-direction: column;
   }
   section .right-col .extention-part-div {
     flex-direction: row;
