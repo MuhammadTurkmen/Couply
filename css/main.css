@@ -591,7 +591,7 @@ footer .footer-wrapper .right-footer p {
   }
   section .section-wrapper .right-col .extention-part-div .step {
     flex-direction: row;
-    align-items: center;
+    align-items: start;
     gap: 2.3rem;
   }
   main .shops-div .shops-div-wrapper {

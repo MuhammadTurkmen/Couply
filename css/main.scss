@@ -709,10 +709,9 @@ footer {
                 .extention-part-div {
                     flex-direction: column;
                     gap: 0;
-
                     .step {
                         flex-direction: row;
-                        align-items: center;
+                        align-items: start;
                         gap: 2.3rem;
                     }
                 }
