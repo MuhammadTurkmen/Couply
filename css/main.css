@@ -364,6 +364,7 @@ footer .footer-wrapper .right-footer p {
     background-color: #fff;
     align-items: center;
     gap: 1.8rem;
+    padding: 1.5rem 4rem 1.5rem 1.7rem;
   }
   section .left-col .users-div .main-user-div img {
     width: 60px;
