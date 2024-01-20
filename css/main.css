@@ -587,7 +587,8 @@ footer .footer-wrapper .right-footer p {
   }
   section .section-wrapper .right-col .extention-part-div {
     flex-direction: column;
-    gap: 2rem;
+    gap: 3rem;
+    padding-bottom: 5.5rem;
   }
   section .section-wrapper .right-col .extention-part-div .step {
     flex-direction: row;

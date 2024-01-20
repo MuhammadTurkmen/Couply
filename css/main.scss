@@ -708,15 +708,16 @@ footer {
                 padding-top: 8rem;
                 .extention-part-div {
                     flex-direction: column;
-                    gap: 2rem;
+                    gap: 3rem;
+                    padding-bottom: 5.5rem;
                     .step {
                         flex-direction: row;
                         align-items: start;
                         gap: 2.3rem;
-
+ 
                         p {
                             margin:  0;
-                            
+
                         }
                     }
                 }
