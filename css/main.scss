@@ -722,7 +722,11 @@ footer {
 
     main {
         .shops-div {
+            .shops-names {
+                max-width: unset;
+            }
 
+            
         }
 
         .shops-item-div {
