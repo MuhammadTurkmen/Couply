@@ -431,15 +431,17 @@ footer {
         }
 
         .right-col {
+            padding-left: 5rem;
             
             .extention-part-div {
                 flex-direction: row;
                 gap: 5.5rem;
-
+                padding-right: 0;
 
                 .step {
                     flex-direction: column;
                     align-items: start;
+                    gap: unset;
                 }
             }
         }
