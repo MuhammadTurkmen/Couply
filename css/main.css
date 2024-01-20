@@ -573,6 +573,12 @@ footer .footer-wrapper .right-footer p {
     display: flex;
     margin: 0 auto;
   }
+  section .section-wrapper .left-col {
+    position: relative;
+  }
+  section .section-wrapper .left-col .title-div h1 img {
+    position: absolute;
+  }
   section .section-wrapper .right-col {
     border: unset;
     border-left: var(--second-border);
