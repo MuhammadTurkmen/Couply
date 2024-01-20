@@ -560,7 +560,8 @@ footer .footer-wrapper .right-footer p {
     max-width: 1200px;
   }
   section .section-wrapper {
-    max-width: 1200px;
+    max-width: 1300px;
     display: flex;
+    margin: 0 auto;
   }
 }/*# sourceMappingURL=main.css.map */
