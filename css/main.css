@@ -522,11 +522,17 @@ footer .footer-wrapper .right-footer p {
     font-weight: bold;
   }
   main .view {
-    width: 40%;
+    justify-content: flex-start;
+    padding-left: 3.3rem;
   }
   footer .footer-wrapper {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     justify-content: space-between;
+  }
+  footer .footer-wrapper .left-footer {
+    flex-direction: column;
+    padding-bottom: 5rem;
+    gap: 5.5rem;
   }
 }/*# sourceMappingURL=main.css.map */

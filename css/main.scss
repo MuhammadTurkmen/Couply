@@ -611,8 +611,8 @@ footer {
         
 
         .view {
-            width: 40%;
-
+            justify-content: flex-start;
+            padding-left: 3.3rem;
         }
 
     }
@@ -624,6 +624,12 @@ footer {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
             justify-content: space-between;
+
+            .left-footer {
+                flex-direction: column;
+                padding-bottom: 5rem;
+                gap: 5.5rem;
+            }
         }
 
     }
