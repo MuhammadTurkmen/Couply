@@ -607,7 +607,6 @@ footer .footer-wrapper .right-footer p {
   }
   main .shops-div .shops-div-wrapper .shops-names {
     max-width: unset;
-    gap: 2rem;
     margin-left: 0;
   }
   main .shops-div .shops-div-wrapper .shops-names img {
@@ -618,6 +617,9 @@ footer .footer-wrapper .right-footer p {
     justify-self: start;
   }
   main .shops-div .shops-div-wrapper .shops-names .two {
+    justify-self: start;
+  }
+  main .shops-div .shops-div-wrapper .shops-names .three {
     justify-self: start;
   }
   main .shops-div .shops-div-wrapper .view-all-brend-div {
