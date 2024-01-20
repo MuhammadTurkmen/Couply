@@ -595,22 +595,32 @@ footer .footer-wrapper .right-footer p {
     gap: 2.3rem;
   }
   main .shops-div .shops-div-wrapper {
-    max-width: 1300px;
+    max-width: 1200px;
     justify-content: space-between;
     display: flex;
     margin: 0 auto;
+    gap: 2rem;
   }
   main .shops-div .shops-div-wrapper .shops-names {
     max-width: unset;
+    gap: 10rem;
+    justify-self: start;
   }
   main .shops-div .shops-div-wrapper .shops-names img {
     width: unset;
     height: unset;
   }
+  main .shops-div .shops-div-wrapper .shops-names .one {
+    justify-self: start;
+  }
   main .shops-div .shops-div-wrapper .view-all-brend-div {
     display: flex;
+    align-items: center;
   }
   main .shops-div .shops-div-wrapper .view-all-brend-div a {
     font-size: 2rem;
+  }
+  footer .footer-wrapper {
+    max-width: 1200px;
   }
 }/*# sourceMappingURL=main.css.map */
