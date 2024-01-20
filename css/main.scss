@@ -630,6 +630,12 @@ footer {
                 padding-bottom: 5rem;
                 gap: 5.5rem;
             }
+
+            .right-footer {
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+            }
         }
 
     }

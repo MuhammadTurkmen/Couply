@@ -535,4 +535,9 @@ footer .footer-wrapper .right-footer p {
     padding-bottom: 5rem;
     gap: 5.5rem;
   }
+  footer .footer-wrapper .right-footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
 }/*# sourceMappingURL=main.css.map */
