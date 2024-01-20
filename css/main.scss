@@ -398,10 +398,23 @@ footer {
                 align-items: center;
                 padding-left: 2rem;
                 gap: 5rem;
+
+
+                .main-user-div {
+                    display: flex;
+                    background-color: #fff;
+                    align-items: center;
+
+
+                    strong {
+                        display: block;
+                    }
+                }
             }
 
         }
     }
+    
 
 
 }

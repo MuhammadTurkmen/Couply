@@ -359,4 +359,12 @@ footer .footer-wrapper .right-footer p {
     padding-left: 2rem;
     gap: 5rem;
   }
+  section .left-col .users-div .main-user-div {
+    display: flex;
+    background-color: #fff;
+    align-items: center;
+  }
+  section .left-col .users-div .main-user-div strong {
+    display: block;
+  }
 }/*# sourceMappingURL=main.css.map */
