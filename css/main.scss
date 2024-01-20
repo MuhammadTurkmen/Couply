@@ -401,6 +401,7 @@ footer {
             text-align: start;
             padding-right: 0;
 
+
             h1 {
                 padding-left: unset;
                 padding-right: unset;
@@ -408,10 +409,15 @@ footer {
                 font-size: 4.5rem;
             }
 
+            .title-div, .users-div {
+                max-width: 730px;
+                margin: 0 auto;
+            }
+            
+
             .users-div {
                 display: flex;
                 align-items: end;
-                padding-left: 2rem;
                 gap: 5rem;
                 margin-bottom: 3rem;
 
@@ -613,7 +619,8 @@ footer {
         .view {
             width: 730px;
             
-            margin: 2rem auto;
+            margin: 0 auto;
+            margin-bottom: 7.9rem;
             display: flex;
             justify-content: start;
             
@@ -638,7 +645,7 @@ footer {
             .right-footer {
                 display: flex;
                 flex-direction: column;
-                justify-content: space-between;
+                justify-content: space-between; 
             }
             
         }

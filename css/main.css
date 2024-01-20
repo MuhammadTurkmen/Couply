@@ -356,10 +356,13 @@ footer .footer-wrapper .right-footer p {
     padding-bottom: 3rem;
     font-size: 4.5rem;
   }
+  section .left-col .title-div, section .left-col .users-div {
+    max-width: 730px;
+    margin: 0 auto;
+  }
   section .left-col .users-div {
     display: flex;
     align-items: end;
-    padding-left: 2rem;
     gap: 5rem;
     margin-bottom: 3rem;
   }
@@ -523,7 +526,8 @@ footer .footer-wrapper .right-footer p {
   }
   main .view {
     width: 730px;
-    margin: 2rem auto;
+    margin: 0 auto;
+    margin-bottom: 7.9rem;
     display: flex;
     justify-content: start;
   }
