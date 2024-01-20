@@ -493,8 +493,12 @@ footer {
         .shops-item-div {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
+            .third-item-div {
+                background-image: url(../assets/heel.jpeg);
+            }
+
             .fourth-item-div {
-                background-image: url(../assets/shoes.jpeg);
+                background-image: url(../assets/headphone.jpeg);
                 background-size: cover;
                 background-position: 0;
                 width: 349px;
