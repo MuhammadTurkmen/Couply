@@ -634,24 +634,33 @@ footer .footer-wrapper .right-footer p {
   main .shops-item-div {
     max-width: 1300px;
     margin: -10rem auto;
-    grid-template-columns: unset;
     grid-template-areas: "first first second third" "fourth fifth fifth sixth";
+    gap: 3rem;
+    grid-template-columns: 368px 10% 245px 297px;
   }
   main .shops-item-div .first-item-div {
-    width: unset;
+    width: 100%;
     grid-area: first;
   }
   main .shops-item-div .second-item-div {
     grid-area: second;
-    width: unset;
+    width: 100%;
   }
   main .shops-item-div .third-item-div {
     grid-area: third;
-    width: unset;
+    width: 100%;
   }
   main .shops-item-div .fourth-item-div {
     grid-area: fourth;
     width: unset;
+  }
+  main .shops-item-div .fifth-item-div {
+    grid-area: fifth;
+    width: 100%;
+  }
+  main .shops-item-div .sixth-item-div {
+    grid-area: sixth;
+    width: 100%;
   }
   main .view {
     margin-top: 200px;

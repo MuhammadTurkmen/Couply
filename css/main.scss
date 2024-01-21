@@ -769,26 +769,36 @@ footer {
         .shops-item-div {
             max-width: 1300px;
             margin: -10rem auto;
-            grid-template-columns: unset;
             grid-template-areas: 
                 "first first second third"
                 "fourth fifth fifth sixth";
+            gap: 3rem;
+            grid-template-columns: 368px 10% 245px 297px;
 
+            
             .first-item-div {
-                width: unset;
+                width: 100%;
                 grid-area: first;
             }
             .second-item-div {
                 grid-area: second;
-                width: unset;
+                width: 100%;
             }
             .third-item-div {
                 grid-area: third;
-                width: unset;
+                width: 100%;
             }
             .fourth-item-div {
                 grid-area: fourth;
                 width: unset;
+            }
+            .fifth-item-div {
+                grid-area: fifth;
+                width: 100%;
+            }
+            .sixth-item-div {
+                grid-area: sixth;
+                width: 100%;
             }
         }
 
