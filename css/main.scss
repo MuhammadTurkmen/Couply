@@ -770,7 +770,9 @@ footer {
             max-width: 1300px;
             margin: -10rem auto;
             grid-template-columns: unset;
-            grid-template-areas: ;
+            grid-template-areas: 
+                "first first second third"
+                "fourth fifth fifth sixth";
 
             .first-item-div {
                 width: unset;
