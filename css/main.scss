@@ -674,6 +674,7 @@ footer {
             margin: 0 auto;
             .left-col {
                 position: relative;
+                flex: 1;
                 .title-div {
                     h1 {
                         .star {
@@ -684,6 +685,7 @@ footer {
             }
     
             .right-col {
+                flex: 1;
                 border: unset;
                 border-left: var(--second-border);
                 padding-left: 6.4rem;

@@ -575,11 +575,13 @@ footer .footer-wrapper .right-footer p {
   }
   section .section-wrapper .left-col {
     position: relative;
+    flex: 1;
   }
   section .section-wrapper .left-col .title-div h1 .star {
     position: absolute;
   }
   section .section-wrapper .right-col {
+    flex: 1;
     border: unset;
     border-left: var(--second-border);
     padding-left: 6.4rem;
