@@ -555,7 +555,7 @@ footer .footer-wrapper .right-footer p {
     justify-content: space-between;
   }
 }
-@media only screen and (min-width: 1100px) {
+@media only screen and (min-width: 1200px) {
   .view-all-brend-div {
     display: unset;
   }
@@ -575,7 +575,7 @@ footer .footer-wrapper .right-footer p {
   }
   section .section-wrapper .left-col {
     position: relative;
-    flex: 1;
+    flex: 1.4;
   }
   section .section-wrapper .left-col .title-div h1 .star {
     position: absolute;
