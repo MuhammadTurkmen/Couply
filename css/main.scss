@@ -775,11 +775,20 @@ footer {
                 "fourth fifth fifth sixth";
 
             .first-item-div {
-                // width: unset;
+                width: unset;
                 grid-area: first;
             }
             .second-item-div {
                 grid-area: second;
+                width: unset;
+            }
+            .third-item-div {
+                grid-area: third;
+                width: unset;
+            }
+            .fourth-item-div {
+                grid-area: fourth;
+                width: unset;
             }
         }
 

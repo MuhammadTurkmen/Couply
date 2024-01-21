@@ -638,10 +638,20 @@ footer .footer-wrapper .right-footer p {
     grid-template-areas: "first first second third" "fourth fifth fifth sixth";
   }
   main .shops-item-div .first-item-div {
+    width: unset;
     grid-area: first;
   }
   main .shops-item-div .second-item-div {
     grid-area: second;
+    width: unset;
+  }
+  main .shops-item-div .third-item-div {
+    grid-area: third;
+    width: unset;
+  }
+  main .shops-item-div .fourth-item-div {
+    grid-area: fourth;
+    width: unset;
   }
   main .view {
     margin-top: 200px;
