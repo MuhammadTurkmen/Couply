@@ -648,6 +648,7 @@ footer .footer-wrapper .right-footer p {
   }
   main .shops-item-div .first-item-div .name {
     margin-bottom: -6rem;
+    padding-top: 2.3rem;
   }
   main .shops-item-div .second-item-div {
     grid-area: second;
