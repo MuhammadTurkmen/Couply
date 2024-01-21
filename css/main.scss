@@ -775,7 +775,11 @@ footer {
                 "fourth fifth fifth sixth";
 
             .first-item-div {
-                width: unset;
+                // width: unset;
+                grid-area: first;
+            }
+            .second-item-div {
+                grid-area: second;
             }
         }
 
