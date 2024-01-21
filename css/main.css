@@ -632,11 +632,12 @@ footer .footer-wrapper .right-footer p {
     margin-right: 1rem;
   }
   main .shops-item-div {
-    max-width: 1300px;
+    max-width: 1200px;
     margin: -10rem auto;
+    width: 100%;
     grid-template-areas: "first first second third" "fourth fifth fifth sixth";
     gap: 3rem;
-    grid-template-columns: 368px 10% 245px 297px;
+    grid-template-columns: 1.2fr 10% auto 1fr;
   }
   main .shops-item-div .first-item-div {
     width: 100%;
