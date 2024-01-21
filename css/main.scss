@@ -802,6 +802,9 @@ footer {
                 height: 100%;
                 justify-content: end;
 
+                .name {
+                    margin-bottom: -6rem;
+                }
             }
             .sixth-item-div {
                 grid-area: sixth;

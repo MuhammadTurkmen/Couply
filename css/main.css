@@ -670,6 +670,9 @@ footer .footer-wrapper .right-footer p {
     height: 100%;
     justify-content: end;
   }
+  main .shops-item-div .fifth-item-div .name {
+    margin-bottom: -6rem;
+  }
   main .shops-item-div .sixth-item-div {
     grid-area: sixth;
     width: 100%;
