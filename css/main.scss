@@ -774,16 +774,19 @@ footer {
                 "first first second third"
                 "fourth fifth fifth sixth";
             gap: 3rem;
-            grid-template-columns: 1.2fr 10% auto 1fr;
+            grid-template-columns: 1.1fr 10% 245px 1fr;
+            grid-template-rows: 261px 261px;
 
             
             .first-item-div {
                 width: 100%;
+                height: 100%;
                 grid-area: first;
             }
             .second-item-div {
                 grid-area: second;
                 width: 100%;
+                height: 100%;
             }
             .third-item-div {
                 grid-area: third;
@@ -805,6 +808,7 @@ footer {
 
         .view {
             margin-top: 200px;
+            width: 1200px;
         }
     }
 
