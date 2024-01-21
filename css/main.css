@@ -582,8 +582,8 @@ footer .footer-wrapper .right-footer p {
   }
   section .section-wrapper .left-col .title-div h1 .star {
     position: absolute;
-    top: 0;
-    right: -3rem;
+    top: -1rem;
+    right: -3.5rem;
   }
   section .section-wrapper .right-col {
     flex: 1;
