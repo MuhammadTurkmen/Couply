@@ -636,6 +636,9 @@ footer .footer-wrapper .right-footer p {
     margin: -10rem auto;
     grid-template-columns: unset;
   }
+  main .shops-item-div .first-item-div {
+    width: unset;
+  }
   main .view {
     margin-top: 200px;
   }
