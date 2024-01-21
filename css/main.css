@@ -635,6 +635,9 @@ footer .footer-wrapper .right-footer p {
     max-width: 1300px;
     margin: -10rem auto;
   }
+  main .view {
+    margin-top: 200px;
+  }
   footer .footer-wrapper {
     max-width: 1200px;
   }
