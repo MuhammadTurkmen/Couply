@@ -658,11 +658,12 @@ footer .footer-wrapper .right-footer p {
   main .shops-item-div .fourth-item-div {
     grid-area: third;
     height: 100%;
-    width: unset;
+    width: 100%;
   }
   main .shops-item-div .fifth-item-div {
     grid-area: fifth;
     width: 100%;
+    height: 100%;
   }
   main .shops-item-div .sixth-item-div {
     grid-area: sixth;
