@@ -673,13 +673,15 @@ footer {
             display: flex;
             margin: 0 auto;
             .left-col {
-                position: relative;
                 flex: 1.4;
                 .title-div {
                     h1 {
+                        position: relative;
                         width: 500px;
                         .star {
                             position: absolute;
+                            top: 0;
+                            right: -3rem;
                         }
                     }
                 }
