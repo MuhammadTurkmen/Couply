@@ -668,6 +668,7 @@ footer .footer-wrapper .right-footer p {
     grid-area: fifth;
     width: 100%;
     height: 100%;
+    justify-content: end;
   }
   main .shops-item-div .sixth-item-div {
     grid-area: sixth;
