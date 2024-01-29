@@ -11,7 +11,7 @@
 ![image](https://github.com/MuhammadTurkmen/Couply/assets/142389953/b23c3ca8-b08c-479c-8085-b5cbf31115d1)
 
 ![image](https://github.com/MuhammadTurkmen/Couply/assets/142389953/8011cc4a-fc14-4afd-85f7-9e3c284b427b)
-
+ 
 ## Desktop 
 ![image](https://github.com/MuhammadTurkmen/Couply/assets/142389953/f0fa6d02-dd2e-4ad7-a8f7-50fed7046ab6)
 
