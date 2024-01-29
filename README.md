@@ -10,4 +10,6 @@
 ## Tablet 
 ![image](https://github.com/MuhammadTurkmen/Couply/assets/142389953/b23c3ca8-b08c-479c-8085-b5cbf31115d1)
 
+![image](https://github.com/MuhammadTurkmen/Couply/assets/142389953/8011cc4a-fc14-4afd-85f7-9e3c284b427b)
+
 
