@@ -7,4 +7,7 @@
 
 ![image](https://github.com/MuhammadTurkmen/Couply/assets/142389953/7aac4182-aa9c-46c3-bffe-ea0a459ce677)
 
+## Tablet 
+![image](https://github.com/MuhammadTurkmen/Couply/assets/142389953/b23c3ca8-b08c-479c-8085-b5cbf31115d1)
+
 
